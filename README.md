@@ -110,9 +110,6 @@ Response:
 
 # 🖥️ Setup
 
-## Clone Repo
-git clone https://github.com/thenameisanjalii/SecondSpark-AI.git
-cd SecondSpark-AI
 
 ## Backend Setup
 cd ai-service
