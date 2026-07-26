@@ -148,13 +148,6 @@ NEXT_PUBLIC_API_BASE_URL=http://127.0.0.1:8000
 
 ---
 
-# 👥 Team
-
-Gopal Patidar – AI & Strategy  
-Anjali Chourasia – Frontend  
-Prakhar Singh – ML & Data  
-
----
 
 # 🏆 Hackathon
 
